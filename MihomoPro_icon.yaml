@@ -297,6 +297,9 @@ dns:
     - "+.miwifi.com"
     - "+.safebrowsing.apple"
     - "+.mihomos.us.kg"
+    - "*.battle.net"
+    - "*.blizzard.com"
+    - blizzard.gcdn.cloudn.co
 
   # DNS 默认服务器
   # 只能使用纯 IP 地址，可使用加密 DNS
